@@ -1,5 +1,5 @@
 
-### 1. The Pinned Location
+  # 1. The Pinned Location
 
 The core of the algorithm is described succinctly in the "Basic technique" section. This paragraph provides a perfect pseudo-code for the implementation:
 
